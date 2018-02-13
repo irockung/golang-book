@@ -34,5 +34,5 @@
 
 **chapter5-3: switch**
 
-**chapter5-4: quick**
+**chapter5-4: quiz**
 
