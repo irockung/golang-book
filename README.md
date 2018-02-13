@@ -19,3 +19,20 @@
 **chapter3-2: String**
 
 **chapter3-3: Floating point**
+
+# Chapter 4 Variable
+
+**chapter4-1: Variable**
+
+**chapter4-2: Input**
+
+# Chapter 5 Variable
+
+**chapter5-1: for**
+
+**chapter5-2: if**
+
+**chapter5-3: switch**
+
+**chapter5-4: quick**
+
